@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于我
+subtitle: 一名苦苦挣扎的程序员
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+大三，重庆邮电大学，工作意向为安卓开发
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 红岩网校工作站移动开发部副部长
+- 计算机科学与技术学院
 
-What else do you need?
+联系方式:
 
-### my history
+QQ  576316037
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Github  [zzzia](https://github.com/Zzzia/)
+
+Mail  [QQ](mailto:576316037@qq.com) [Outlook](mailto:jzljzljl@outlook.com)
+
+个人主页 [zzzia.net](http://zzzia.net/)

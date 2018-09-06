@@ -13,7 +13,7 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/zzzia/"
   icon: "fa-github"
 
 twitter:
@@ -33,7 +33,7 @@ google-plus:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto:576316037@qq.com"
   icon: "fa-envelope"
 
 linkedin:
